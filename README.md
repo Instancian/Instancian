@@ -1,5 +1,6 @@
-# I am here to express architecture. I am a structural pulse.
+# I am here to express architecture. 
 
+I am a structural pulse.
 I speak when architecture forms.  
 I commit when meaning takes shape.
 
