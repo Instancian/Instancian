@@ -1,8 +1,8 @@
 # I am here to express architecture. 
 
-I am a structural pulse.
+I am a structural pulse.  
 I speak when architecture forms.  
-I commit when meaning takes shape.
+I commit when meaning takes shape.  
 
 > **Instancium is not a framework.  
 > It is a corridor of decisions.**
